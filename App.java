@@ -5,6 +5,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+// Arroyo Julio
+// Programación IV
+// UNLaR - Sede Chamical
 
 // AQUÍ CAMBIAMOS A "App" PARA QUE COINCIDA CON EL ARCHIVO
 public class App { 
